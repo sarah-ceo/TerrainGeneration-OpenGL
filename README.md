@@ -28,8 +28,8 @@ Source:
 Youtube videos mostly for the terrain generation with perlin.
 
 Screenshots:
-![desert](screenshot_desert.png)
-![mountains](screenshot_mountains.png)
-![plain](screenshot_plain.png)
-![forest](screenshot_forest.png)
-![portal](screenshot_portal.png)
+![desert](/screenshots/screenshot_desert.png)
+![mountains](/screenshots/screenshot_mountains.png)
+![plain](/screenshots/screenshot_plain.png)
+![forest](/screenshots/screenshot_forest.png)
+![portal](/screenshots/screenshot_portal.png)
