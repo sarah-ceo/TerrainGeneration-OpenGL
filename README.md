@@ -1,4 +1,4 @@
-# TerrainGeneration_OpenGL
+# Terrain Generation OpenGL
 This is a school project: an OpenGL game with procedural terrain generation and portals.
 
 Gameplay:
@@ -30,6 +30,6 @@ Youtube videos mostly for the terrain generation with perlin.
 Screenshots:
 ![desert](/screenshots/screenshot_desert.png)
 ![mountains](/screenshots/screenshot_mountains.png)
-![plain](/screenshots/screenshot_plain.png)
+![plain](/screenshots/screeshot_plain.png)
 ![forest](/screenshots/screenshot_forest.png)
 ![portal](/screenshots/screenshot_portal.png)
