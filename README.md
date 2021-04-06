@@ -22,7 +22,7 @@ The camera was supposed to advance on its own and the user would have guided it 
 So this is not really a game in the end unfortunately.
 
 Sources:
-Youtube videos for the terrain generation with perlin noise, and https://adrianb.io/2014/08/09/perlinnoise.html as well.
+https://en.wikipedia.org/wiki/Perlin_noise, https://adrianb.io/2014/08/09/perlinnoise.html, and a lot of Youtube videos explaining terrain generation with Perlin noise.
 
 Screenshots:
 ![desert](/screenshots/screenshot_desert.png)
